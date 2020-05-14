@@ -6,8 +6,9 @@
 
 <p align="center">“Não existe linha de chegada, a vitória está em se manter correndo”!</blockquote>
 
-
-<img align="center" alt="GoStack" src="src/assets/gif.gif" width="300" />
+<p align="center">
+  <img alt="GoStack" src="src/assets/gif.gif" width="300" />
+<p align="center">
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ebnersilva/gostack-desafio-08-fundamentos-react-native?color=%2304D361">
